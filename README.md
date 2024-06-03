@@ -8,6 +8,8 @@ The official implementation of the paper "ImplicitSLIM and How it Improves Embed
 
 `ImplicitSLIM.ipynb` provides several examples of applying ImplicitSLIM and LLE-SLIM to Matrix Factorization and PLRec.
 
+An example of applying ImplicitSLIM to a deep model is provided in the [RecVAE repository](https://github.com/ilya-shenbin/RecVAE).
+
 If you find this paper or this code useful, please cite our paper:
 
 ```
