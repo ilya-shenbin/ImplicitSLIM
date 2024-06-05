@@ -1,6 +1,6 @@
 # ImplicitSLIM and How it Improves Embedding-based Collaborative Filtering
 
-The official implementation of the paper "ImplicitSLIM and How it Improves Embedding-based Collaborative Filtering" ([OpenReview](https://openreview.net/forum?id=6vF0ZJGor4)).
+The official implementation of the paper "ImplicitSLIM and How it Improves Embedding-based Collaborative Filtering" ([arXiv](https://arxiv.org/abs/2406.00198), [OpenReview](https://openreview.net/forum?id=6vF0ZJGor4)).
 
 `implicit_slim.py` contains implementations of ImplicitSLIM and LLE-SLIM.
 
